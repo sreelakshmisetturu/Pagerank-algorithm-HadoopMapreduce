@@ -1,5 +1,5 @@
 //SREELAKSHMI SETTURU
-//ssetturu@uncc.edu
+//sreelakshmisetturu@gmail.com
 package assignment3;
 
 import java.io.IOException;
